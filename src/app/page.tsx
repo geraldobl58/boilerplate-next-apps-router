@@ -1,4 +1,4 @@
 export default function Home() {
-  const foo = 'bla'
+  const foo = 'blaaa'
   return <div>Page</div>
 }
