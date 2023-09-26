@@ -1,8 +1,10 @@
+import * as S from './styles'
+
 const Main = () => {
   return (
-    <main>
+    <S.Wrapper>
       <h1>Nextjs 13</h1>
-    </main>
+    </S.Wrapper>
   )
 }
 
